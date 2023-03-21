@@ -1,0 +1,94 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Chainsaw Man Addon",
+      "add_url":"http://192.248.164.249/chainsaw-man-addon-by-floaty.mcaddon",
+      "addB_url":"",
+      "addR_url":"",
+      "view_add":"https://minecraft-pocket.com/uploads/posts/2023-02/1677438885_screenshot-1308_1-520x245-1.png",
+      "des_add":"https://bangkit45.github.io/ChainsawManMod/ChainsawManAddon1.html"
+    },
+	{
+      "id":2,
+      "name_add":"Elingo's Chainsaws Addon",
+      "add_url":"",
+      "addB_url":"http://192.248.164.249/chainsaw-beh.mcpack",
+      "addR_url":"http://192.248.164.249/chainsaw-res.mcpack",
+      "view_add":"https://minecraft-pocket.com/uploads/posts/2023-01/1674682259_snappa-google-chrome-21012023-141220_1-520x245-1.png",
+      "des_add":"https://bangkit45.github.io/ChainsawManMod/ChainsawManAddon2.html"
+    },
+	{
+      "id":3,
+      "name_add":"Mini-POPS Addon",
+      "add_url":"http://192.248.164.249/mini-pops_v8.mcaddon",
+      "addB_url":"",
+      "addR_url":"",
+      "view_add":"https://minecraft-pocket.com/uploads/posts/2022-11/1668690759_portada3_1-520x245-1.png",
+      "des_add":"https://bangkit45.github.io/ChainsawManMod/ChainsawManAddon3.html"
+    },
+	{
+      "id":4,
+      "name_add":"Pochita Addon",
+      "add_url":"",
+      "addB_url":"http://192.248.164.249/pochitaadddat.mcpack",
+      "addR_url":"http://192.248.164.249/pochitaadd.mcpack",
+      "view_add":"https://minecraft-pocket.com/uploads/posts/2022-11/1667735217_whatsapp-image-20221101-at-20243-pm_1-520x245-1.png",
+      "des_add":"https://bangkit45.github.io/ChainsawManMod/ChainsawManAddon4.html"
+    },
+	{
+      "id":5,
+      "name_add":"Chainsaw Man Addon",
+      "add_url":"",
+      "addB_url":"http://192.248.164.249/chainsawman-bp-by-eyebags.mcpack",
+      "addR_url":"http://192.248.164.249/chainsawman-rp-by-eyebags.mcpack",
+      "view_add":"https://minecraft-pocket.com/uploads/posts/2022-10/1667214923_cmthumbnail2official_1-520x245-1.png",
+      "des_add":"https://bangkit45.github.io/ChainsawManMod/ChainsawManAddon5.html"
+    }
+	
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
