@@ -1,0 +1,121 @@
+{
+  "Ads":
+  [
+    {
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "fan_native_banner":"YOUR_PLACEMENT_ID",
+
+      "fan_inter_backup": "YOUR_PLACEMENT_ID",
+      "fan_native_backup": "YOUR_PLACEMENT_ID",
+      "fan_banner_backup": "YOUR_PLACEMENT_ID",
+      "fan_native_banner_backup": "YOUR_PLACEMENT_ID",
+
+      "fan_inter_backup2": "YOUR_PLACEMENT_ID",
+      "fan_native_backup2": "YOUR_PLACEMENT_ID",
+      "fan_banner_backup2": "YOUR_PLACEMENT_ID",
+      "fan_native_banner_backup2": "YOUR_PLACEMENT_ID",
+
+      "fan_inter_backup3": "YOUR_PLACEMENT_ID",
+      "fan_native_backup3": "YOUR_PLACEMENT_ID",
+      "fan_banner_backup3": "YOUR_PLACEMENT_ID",
+      "fan_native_banner_backup3": "YOUR_PLACEMENT_ID",
+
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    
+  ],
+  "Maps":
+  [
+    {
+         "id": 1,
+         "name_map": "SpiderMan: Into The CraftingVerse",
+         "map_url": "http://192.248.164.249/spider-man-no-way-home-minecraft.mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2022-04/1649176248_when_1-520x245-1.png",
+         "des_map": "https://bangkit45.github.io/SpiderManMod6/SpiderMan6.html"
+      },
+      {
+         "id": 2,
+         "name_map": "Spider-Man: No Way Home Addon",
+         "map_url": "https://archive.org/download/el-sando-spider-man-nwh_202209/el-sando-spider-man-nwh.mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2021-12/1640891153_minecraft-spiderman-no-way-home-addon-el-sando_7-1.png",
+         "des_map": "https://bangkit45.github.io/SpiderManMod5/SpiderMan5.html"
+      },
+      {
+         "id": 3,
+         "name_map": "Spider-Man Addon",
+         "map_url": "http://192.248.164.249/el-sando-spider-mann.mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2020-04/1587752775_spiderman-addon_1-520x245.png",
+         "des_map": "https://bangkit45.github.io/SpiderManMod4/SpiderMan4.html"
+      },
+      {
+         "id": 4,
+         "name_map": "Spider-Man No Way Home",
+         "map_url": "http://192.248.164.249/no-way-home-addon.mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2021-11/1637149073_spiderman-no-way-home-addon_3-1.png",
+         "des_map": "https://bangkit45.github.io/SpiderManMod3/SpiderMan3.html"
+      },
+      {
+         "id": 5,
+         "name_map": "SpiderMan No Way Home V2",
+         "map_url": "http://192.248.164.249/spider-man-no-way-home-minecraft).mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2021-12/1639396557_spiderman-no-way-home-addon-minecraft_9.jpeg",
+         "des_map": "https://bangkit45.github.io/SpiderManMod2/SpiderMan2.html"
+      },
+      {
+         "id": 6,
+         "name_map": "SpiderMan: No Way Home Addon",
+         "map_url": "http://192.248.164.249/el-sando-spider-man-nwh.mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2021-12/1639396556_screenshot20211212123554_1-520x245.png",
+         "des_map": "https://bangkit45.github.io/SpiderManMod1/SpiderMan1.html"
+      },
+      {
+         "id": 7,
+         "name_map": "SpiderMan: Into The CraftingVerse",
+         "map_url": "http://192.248.164.249/el-sando-spider-man-nwh.mcaddon",
+         "view_map": "https://minecraft-pocket.com/uploads/posts/2022-04/1649176248_when_1-520x245-1.png",
+         "des_map": "https://bangkit45.github.io/SpiderMan7/SpiderMan7.html"
+      }
+  ]
+}
+
