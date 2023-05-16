@@ -2,28 +2,28 @@
   "Ads":
   [
     {
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
-      "fan_native_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter": "927635961531381_927643138197330",
+      "fan_native": "927635961531381_1033899207571722",
+      "fan_banner": "927635961531381_1020204165607893",
+      "fan_native_banner":"927635961531381_1065510167743959",
 
-      "fan_inter_backup": "YOUR_PLACEMENT_ID",
-      "fan_native_backup": "YOUR_PLACEMENT_ID",
-      "fan_banner_backup": "YOUR_PLACEMENT_ID",
-      "fan_native_banner_backup": "YOUR_PLACEMENT_ID",
+      "fan_inter_backup": "927635961531381_1026695291625447",
+      "fan_native_backup": "927635961531381_1065509254410717",
+      "fan_banner_backup": "927635961531381_1065506761077633",
+      "fan_native_banner_backup": "927635961531381_1065510271077282",
 
-      "fan_inter_backup2": "YOUR_PLACEMENT_ID",
-      "fan_native_backup2": "YOUR_PLACEMENT_ID",
-      "fan_banner_backup2": "YOUR_PLACEMENT_ID",
-      "fan_native_banner_backup2": "YOUR_PLACEMENT_ID",
+      "fan_inter_backup2": "927635961531381_1065507134410929",
+      "fan_native_backup2": "927635961531381_1065509381077371",
+      "fan_banner_backup2": "927635961531381_1065506801077629",
+      "fan_native_banner_backup2": "927635961531381_1065510514410591",
 
-      "fan_inter_backup3": "YOUR_PLACEMENT_ID",
-      "fan_native_backup3": "YOUR_PLACEMENT_ID",
-      "fan_banner_backup3": "YOUR_PLACEMENT_ID",
-      "fan_native_banner_backup3": "YOUR_PLACEMENT_ID",
+      "fan_inter_backup3": "927635961531381_1065507277744248",
+      "fan_native_backup3": "927635961531381_1065509447744031",
+      "fan_banner_backup3": "927635961531381_1065506907744285",
+      "fan_native_banner_backup3": "927635961531381_1065510611077248",
 
       "switch_banner_natives_ads":"1",
-      "interval_intertitial": 2,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -38,24 +38,7 @@
 
   "More":
   [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
+    
   ],
   "Skin":
   [
